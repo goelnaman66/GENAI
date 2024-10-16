@@ -1,0 +1,21 @@
+ipykernel
+langchain
+python-dotenv
+langchain-openai
+langchain_core
+
+
+# simple app 
+beautifulsoup4
+langchain_community # document loaders
+faiss-cpu
+streamlit
+
+## LECL APP
+langchain_groq
+
+# serve.py
+fastapi
+uvicorn
+langserve[all]
+sse_starlette
